@@ -80,7 +80,7 @@ Prompt Entry
 
 Model Generation
 
-![Model Generation](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/model-generation.png)
+![Model Generation](https://github.com/tulasichallabathula282-prog/3D-VISUALIZATION-/blob/main/model-generation.jpeg)
 
 Quiz Attempt
 
