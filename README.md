@@ -88,7 +88,7 @@ Quiz Attempt
 
 Quiz Completed
 
-![Quiz Completed](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/quiz-completed.png)
+![Quiz Completed](https://github.com/tulasichallabathula282-prog/3D-VISUALIZATION-/blob/main/quiz-completed.jpeg)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
