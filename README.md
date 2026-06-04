@@ -1,0 +1,217 @@
+# 3D-VISUALIZATION
+An interactive educational platform that uses 3D visualization to convert user input into visual models, making complex concepts easier to understand. Includes quizzes and summaries to enhance engagement and improve learning outcomes.
+
+The platform allows users to explore educational concepts through interactive 3D models, AI-powered explanations, voice commands, and educational quizzes inside a futuristic interface.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Features
+
+* Interactive 3D educational visualization
+* AI chatbot assistant
+* Voice recognition support
+* Text-to-speech explanations
+* Topic-based 3D model generation
+* Educational summaries
+* Interactive quizzes
+* Fullscreen 3D model viewing
+* Animated star background effects
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Technologies Used
+
+Frontend
+
+• HTML5
+• CSS3
+• JavaScript
+
+APIs & Libraries
+
+• Google Model Viewer
+• OpenRouter API
+• Web Speech API
+• Speech Synthesis API
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Available 3D Models
+
+The platform currently includes the following 3D educational models:
+
+• Brain
+• Butterfly
+• Earth Core
+• Eye
+• Heart
+• Human Skeleton
+• Penguin
+• Skull
+• Solar System
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project Workflow
+
+1. User enters a topic using text or voice.
+2. The application detects the educational topic.
+3. Related 3D model is loaded dynamically.
+4. Educational summary is generated automatically.
+5. Voice explanation is played.
+6. User can take quizzes related to the selected topic.
+7. AI chatbot provides additional educational support.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Screenshots
+
+Home Page
+
+![Home Page](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/home-page.png)
+
+Main Page
+
+![Main Page](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/main-page.png)
+
+Prompt Entry
+
+![Prompt Entry](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/prompt-entry.png)
+
+Model Generation
+
+![Model Generation](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/model-generation.png)
+
+Quiz Attempt
+
+![Quiz Attempt](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/quiz-attempt.png)
+
+Quiz Completed
+
+![Quiz Completed](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/quiz-completed.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Folder Structure
+
+```text 
+3D-VISUALIZATION/
+│
+├── index.html
+├── learn.html
+├── style.css
+├── app.js
+│
+├── models/
+│   ├── brain.glb
+│   ├── butterfly.glb
+│   ├── earthcore.glb
+│   ├── eye.glb
+│   ├── heart.glb
+│   ├── humanskeleton.glb
+│   ├── penguin.glb
+│   ├── skull.glb
+│   └── solar_system.glb
+```
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Installation
+
+Clone Repository
+
+```bash 
+git clone https://github.com/saisreetalari/3D-VISUALIZATION.git
+```
+
+Open Project
+
+Open the project folder in Visual Studio Code.
+
+Run Application
+
+Use the Live Server extension in VS Code to run the project locally.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AI Chatbot
+
+The project includes an AI chatbot integrated using OpenRouter API.
+
+The chatbot helps users by:
+
+* Explaining educational concepts
+* Answering learning-related questions
+* Providing quick assistance during exploration
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Voice Features
+
+* Speech Recognition for voice input
+* Speech Synthesis for audio explanations
+* Hands-free learning interaction
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Future Improvements
+
+* Real AR integration
+* Advanced AI tutoring
+* More 3D educational models
+* User login system
+* Better chatbot accuracy
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Challenges Faced
+
+* Managing large 3D model files
+* AI API integration
+* Browser compatibility for AR features
+* Performance optimization for rendering 3D models
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project Purpose
+
+The objective of this project is to improve traditional education using immersive technologies like 3D visualization, AI interaction, and voice-based learning.
+
+The platform helps students understand concepts more effectively through visual and interactive experiences.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Important Note
+
+This project uses OpenRouter API for the AI chatbot functionality.
+
+For security reasons, users must create their own OpenRouter API key and replace it inside the code before running the project.
+
+Steps:
+
+1. Create an account on OpenRouter
+2. Generate your API key
+3. Open app.js
+4. Replace the existing API key with your own key
+
+Example:
+
+```javascript
+const OPENROUTER_API_KEY = "YOUR_API_KEY_HERE";
+```
+
+Without a valid API key, the AI chatbot feature will not work properly.
+
+
+A live deployment link is not included because the project contains large 3D assets and API-based integrations that caused deployment limitations during hosting.
+To provide a complete demonstration of the project features and functionality, screenshots and project source code have been included instead.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Developed By
+
+1. Challabathula Tulasi
+2. Gonchala Lakshmi Padmaja  
+3. Talari Sai Sree
+
+Department: BCA Data Science
