@@ -68,7 +68,7 @@ Screenshots
 
 Home Page
 
-![Home Page](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/home-page.png)
+![Home Page](https://github.com/tulasichallabathula282-prog/3D-VISUALIZATION-/blob/main/home-page.jpeg)
 
 Main Page
 
