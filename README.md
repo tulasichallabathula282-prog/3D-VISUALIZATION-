@@ -76,7 +76,7 @@ Main Page
 
 Prompt Entry
 
-![Prompt Entry](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/prompt-entry.png)
+![Prompt Entry](https://github.com/tulasichallabathula282-prog/3D-VISUALIZATION-/blob/main/prompt-entry.jpeg)
 
 Model Generation
 
