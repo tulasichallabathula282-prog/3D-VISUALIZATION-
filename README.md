@@ -72,7 +72,7 @@ Home Page
 
 Main Page
 
-![Main Page](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/main-page.png)
+![Main Page](https://github.com/tulasichallabathula282-prog/3D-VISUALIZATION-/blob/main/main-page.jpeg)
 
 Prompt Entry
 
