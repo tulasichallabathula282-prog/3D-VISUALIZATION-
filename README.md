@@ -84,7 +84,7 @@ Model Generation
 
 Quiz Attempt
 
-![Quiz Attempt](https://github.com/saisreetalari/3D-VISUALIZATION/blob/main/quiz-attempt.png)
+![Quiz Attempt](https://github.com/tulasichallabathula282-prog/3D-VISUALIZATION-/blob/main/quiz-attempt.jpeg)
 
 Quiz Completed
 
