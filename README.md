@@ -211,7 +211,7 @@ To provide a complete demonstration of the project features and functionality, s
 Developed By
 
 1. Challabathula Tulasi
-2. Gonchala Lakshmi Padmaja  
-3. Talari Sai Sree
+2. Talari Sai Sree
+3. Gonchala Lakshmi Padmaja 
 
 Department: BCA Data Science
